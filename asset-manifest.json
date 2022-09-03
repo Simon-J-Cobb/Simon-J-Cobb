@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Simon-J-Cobb/static/js/main.e0cf1470.js",
+    "static/media/Radial_Curves_Face.jpg": "/Simon-J-Cobb/static/media/Radial_Curves_Face.cca28707a3fcc144f723.jpg",
+    "static/media/logo-react-icon.png": "/Simon-J-Cobb/static/media/logo-react-icon.283bf42c605cfc49cf49.png",
+    "static/media/among-us.jpg": "/Simon-J-Cobb/static/media/among-us.9bc518a6f0de001aae69.jpg",
+    "static/media/Simon.jpg": "/Simon-J-Cobb/static/media/Simon.9d69f9e3c619d1e0b63f.jpg",
+    "static/media/adventOfCode.jpg": "/Simon-J-Cobb/static/media/adventOfCode.e57ba0d59aee316342a9.jpg",
+    "index.html": "/Simon-J-Cobb/index.html",
+    "main.e0cf1470.js.map": "/Simon-J-Cobb/static/js/main.e0cf1470.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e0cf1470.js"
+  ]
+}
