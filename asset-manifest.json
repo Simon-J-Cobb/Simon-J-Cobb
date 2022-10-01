@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.5b62bebe.js",
+    "main.js": "/static/js/main.279eabe1.js",
     "static/media/Radial_Curves_Face.jpg": "/static/media/Radial_Curves_Face.cca28707a3fcc144f723.jpg",
     "static/media/logo-react-icon.png": "/static/media/logo-react-icon.283bf42c605cfc49cf49.png",
     "static/media/among-us.jpg": "/static/media/among-us.9bc518a6f0de001aae69.jpg",
     "static/media/Simon.jpg": "/static/media/Simon.9d69f9e3c619d1e0b63f.jpg",
     "static/media/adventOfCode.jpg": "/static/media/adventOfCode.e57ba0d59aee316342a9.jpg",
     "index.html": "/index.html",
-    "main.5b62bebe.js.map": "/static/js/main.5b62bebe.js.map"
+    "main.279eabe1.js.map": "/static/js/main.279eabe1.js.map"
   },
   "entrypoints": [
-    "static/js/main.5b62bebe.js"
+    "static/js/main.279eabe1.js"
   ]
 }
