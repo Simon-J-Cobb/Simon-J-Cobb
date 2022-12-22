@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.91f4cab1.css",
-    "main.js": "/static/js/main.8227a05c.js",
+    "main.css": "/static/css/main.70762d40.css",
+    "main.js": "/static/js/main.9f433441.js",
     "static/media/Animation.gif": "/static/media/Animation.87804819ec621e3b239e.gif",
     "static/media/Radial_Curves_Face.jpg": "/static/media/Radial_Curves_Face.cca28707a3fcc144f723.jpg",
     "static/media/logo-react-icon.png": "/static/media/logo-react-icon.283bf42c605cfc49cf49.png",
@@ -9,11 +9,11 @@
     "static/media/Simon.jpg": "/static/media/Simon.9d69f9e3c619d1e0b63f.jpg",
     "static/media/adventOfCode.jpg": "/static/media/adventOfCode.e57ba0d59aee316342a9.jpg",
     "index.html": "/index.html",
-    "main.91f4cab1.css.map": "/static/css/main.91f4cab1.css.map",
-    "main.8227a05c.js.map": "/static/js/main.8227a05c.js.map"
+    "main.70762d40.css.map": "/static/css/main.70762d40.css.map",
+    "main.9f433441.js.map": "/static/js/main.9f433441.js.map"
   },
   "entrypoints": [
-    "static/css/main.91f4cab1.css",
-    "static/js/main.8227a05c.js"
+    "static/css/main.70762d40.css",
+    "static/js/main.9f433441.js"
   ]
 }
